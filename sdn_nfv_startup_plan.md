@@ -1,6 +1,6 @@
 # Business offering and Target Customer(s) #
 * In this section, there is a description of your business offering and the different customer segments that you are targeting your business at. 
-* The business offering can be a cloud based service/product or a non-technical product/service that uses Cloud based services in its operations (e.g. coffee shop, grocery shop chain, online marriage agency etc)
+* The business offering can be a cloud based service/product or a non-technical product/service that uses Cloud based services in its operations.
 * In this section, it is important to state what factors or processes based on the course content lead you to select the particular offering and target customer segments 
 * What legal, regulatory and best practices are you adopting in using Cloud services in your business?
 * In this section, you also need to state clearly what is your value proposition for your targeted customers and how Cloud based services are supporting this value proposition 
