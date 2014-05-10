@@ -2,4 +2,8 @@
 
 set -e 
 
-pandoc *.md -o report.pdf
+pandoc -V geometry:margin=1in exec_summary.md \
+       lean_canvas.md  \
+       sdn_nfv_startup_plan.md \
+       references.md    \
+       -o report.pdf
