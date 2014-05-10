@@ -1,5 +1,7 @@
-# sdn_nfv_business_plan
+# SDN & NFV Business Model
 
-Emerging SDN &amp; NFV business model. Example of a business plan.
+Overview of SDN &amp; NFV business model. Provided in a form of business plan for a startup.
 
-This is base on <a href="http://leanstack.com/">Lean Canvas</a> model.
+Based on [Lean Canvas] model.
+
+[Lean Canvas]: http://leanstack.com/LeanCanvas.pdf
