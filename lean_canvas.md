@@ -1,6 +1,6 @@
 # Business Model #
 
-Lean Canvas business model allows quickly surface key elements of the startup.
+Below is a Lean Canvas business model which allows quickly surface key elements of the RIBCloud.
 
 ## Problem ##
 
