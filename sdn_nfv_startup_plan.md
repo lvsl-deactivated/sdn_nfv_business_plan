@@ -25,6 +25,14 @@ The SDN and NFV initiatives are lead by the following organisations:
 
 Joining these organisation will be an important strategic move. The opportunity is to have direct access to industry leaders.
 
+According to the survey conducted by OpenDaylight [3].
+The majority of operators and enterprises plan to deploy SDN & NFV based networks solution in the next two years. Also majority of enterprises and operators interested
+in Open Source based solutions delivered and deployed by commercial distributors. It's clear from that survey that Warehouse-scale networking follow the Cloud revolution:
+leverage economies of scale, commodity hardware and virtualisation.
+
+In the span of five to ten years, enterprises still will need commercial providers who will adopt and extends Open Source solutions for particular customer's needs.
+Hence the business will be relevant.
+
 ## Legal and Regulatory Best Practices ##
 
 The company is structures as a Private Limited Company which provide Protection of limited liability and easy to attract new people by providing shares in the business.
@@ -47,32 +55,57 @@ Some parts of the software may be release as Open Source Software (OSS). The lis
 OSS internally or as part of distribution, he or she must comply with legal representative to prevent potential leakage of Intellectual Property caused by using OSS with
 restrictive licence in distribution.
 
-* *In this section, you also need to state clearly what is your value proposition for your targeted customers and how Cloud based services are supporting this value proposition* 
+## Value proposition for target customers and how Cloud based services are supporting this value proposition ##
 
 The unique value of RIBCloud is the ability to tap into real-time routing information and expose it in the vendor agnostic open format.
 For enterprise customers this will help surface bottlenecks in their network, help troubleshoot network related outages.
 For transit providers and operators this will help to reduce the time of network topology change and allow to execute scheduled maintenance with less impact to their customers.
 
-    + *The value proposition can be any combination of the following;*
-    + *What problems are you solving for your targeted customers?*
-    + *What products/services are you offering?*
-    + *What needs/requirements are you solving for your targeted customers?*
+Cloud technologies allows to move storage and compute of routing information in the cloud. This minimised the complexity of RIBCloud.
 
-# Customer Relationship Management activities #
+# Customer Relationship Management Activities #
 * *In the context of each of your customer segments, what activities are required to complete marketing, sales, production/delivery and ongoing customer support*
 
+## Marketing ##
+The marketing will be based around
+
+* Customer Intimacy
+* Operational Excellence
+* Product Leadership
+
+### Customer Intimacy ###
+Because RIBCloud targeting early adopters, we expect to dive-deep into customer's infrastructure (maybe evensigning NDA) to deliver the best solution which is fit use and purpose.
+This is important in a new business because there are no de-factor standards and expectations. There is a nice opportunity to raise the bar and thus gain some unfair advantage.
+
+## Sales ##
+Direct sales, it's expected that there will be 
+
+## Production / Delivery ##
+
+## Ongoing Customer Support ##
 
 
 * *What sales & marketing channels will you be using to reach your customers?*
     + *Please distinguish between Cloud/Online and OnPremise/Offline channels and list the reasons why?*
 * *In these activities, what cloud based services is your business using and list the reasons why you selected each cloud based service?*
+    Amazon EC2, Amazon S3, Amazon Kenisis, Amazon DynamoDB.
 * *What are the key/important resources (i.e. people, data, processes etc) in your business startup and how are you managing any risks associated with these ‘resources’?*
+    Software.
 * *What legal, regulatory and best practices are you adopting in using Cloud services in your business?*
+    Customer should be aware that data will be stored in the Cloud.
 
 # Revenue & Cost model #
 * *What is your revenue pricing model for each product/service option that you offer?*
+
+Since this is a new the new product pricing model should be Skimming or Penetration.
+Skimming works better in this case since the number of customers is expected to very low.
+And setting the high price is tolerable for large enterprises since existing network solutions costs are extremely high.
+Simple Monthly Recurring would be a nice start for a pricing plan.
+
 * *What are the reasons and/or case studies that you selected a particular pricing model* 
 * *In relation to your business costs;*
     +  *What are the important costs?*
     + *What are the most expensive resources used in your business?*
+        PaaS and IaaS resources used by the customer.
     + *What are the most expensive activities within your business?*
+        Live Support of customers.
